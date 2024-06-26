@@ -27,14 +27,14 @@ header img {
 
 .center {
     text-align: center;
-
 }
-.titulo{
+
+.titulo {
 
     text-align: center;
 }
+
 img {
-    height: 120px;
     height: 120px;
     border-radius: 100%;
     border: 5px solid #FF8C00;
@@ -44,4 +44,3 @@ img {
     text-align: center;
 
 }
-
