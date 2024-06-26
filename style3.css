@@ -1,0 +1,47 @@
+body {
+    color: #FF8C00;
+    background-color: #F0E68C;
+    font-family: sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: #FF8C00;
+    text-decoration: none;
+}
+
+header img {
+
+    width: 450px;
+    height: 300px;
+    border-radius: 100%;
+    border: 5px solid #FF8C00
+}
+
+.center {
+    text-align: center;
+
+}
+.titulo{
+
+    text-align: center;
+}
+img {
+    height: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 5px solid #FF8C00;
+}
+
+.bora {
+    text-align: center;
+
+}
+

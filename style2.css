@@ -1,0 +1,107 @@
+{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: sans-serif;
+
+
+    }
+
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 5vh;
+        background: #F0E68C;
+    }
+
+.center{
+
+    display: flex;
+    border-radius: 50%
+    
+}
+.center2{
+
+    display: flex;
+    align-items: center;
+    border-radius: 80%;
+}
+    img {
+
+        width: 100%;
+        flex-direction: column;
+
+    }
+
+    image {
+
+        height: 80%;
+    }
+
+    section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 10px 45pxhh;
+        background: #FFA500;
+        width: 500px;
+        box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+
+        section h2 {
+
+            color: #FF0000
+            font-size: 3.0rem;
+            margin: 2rem;
+        }
+
+        section form {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        form label {
+            color: #f01707;
+            font-size: 17px;
+            margin-bottom: 4px;
+        }
+
+        form input {
+            padding: 15px;
+            outline: none;
+            border: 0;
+            margin-bottom: 20px;
+            font-size: 15px;
+            transition: all 0.5s;
+        }
+
+        form input: focus {
+            border-radius: 16px;
+        }
+
+        form textarea {
+            padding: 10px;
+            outline: none;
+            border: 0;
+            font-size: 15px;
+            margin-bottom: 30px;
+            transition: all 0.5s;
+        }
+
+        form textarea:focus {
+            border-radius: 16px;
+        }
+
+        form button {
+            padding: 15px;
+            cursor: pointer;
+            font-size: 16px;
+            background: transparent;
+            border: 2px solid #f01707;
+            color: #f01707;
+        }
+         {
+
+      
